@@ -1,43 +1,43 @@
 [
     {
       "id": 1,
-      "image": "dog.jpg"
+      "image": "dog.JPG"
     },
     {
       "id": 2,
-      "image": "snake.jpg"    
+      "image": "snake.JPG"    
     },
     {
       "id": 3,
-      "image": "monkey.jpg"
+      "image": "monkey.JPG"
     },
     {
       "id": 4,
-      "image": "horse.jpg" 
+      "image": "horse.JPG" 
     },
     {
       "id": 5,
-      "image": "ox.jpg"
+      "image": "ox.JPG"
     },
     {
       "id": 6,
-      "image": "rabbit.jpg"
+      "image": "rabbit.JPG"
     },
     {
       "id": 7,
-      "image": "dragon.jpg"
+      "image": "dragon.JPG"
     },
     {
       "id": 8,
-      "image": "tiger.jpg"
+      "image": "tiger.JPG"
     },
     {
       "id": 9,
-      "image": "rat.jpg"
+      "image": "rat.JPG"
     },
     {
       "id": 10,
-      "image": "pig.jpg"
+      "image": "pig.JPG"
     },
     {
       "id": 11,
@@ -45,7 +45,7 @@
     },
     {
       "id": 12,
-      "image": "goat.jpg"
+      "image": "goat.JPG"
     }
   ]
   
