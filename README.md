@@ -4,6 +4,8 @@
 
 This is a memory game using React. The application's UI is split into four components.
 
+To Play my game go here: https://fathomless-bayou-20172.herokuapp.com/
+
 
 ## Instructions
 
