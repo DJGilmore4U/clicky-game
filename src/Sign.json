@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "dog.jpg"
+    },
+    {
+      "id": 2,
+      "image": "snake.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "monkey.jpg"
+    },
+    {
+      "id": 4,
+      "image": "horse.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "ox.jpg"
+    },
+    {
+      "id": 6,
+      "image": "rabbit.jpg"
+    },
+    {
+      "id": 7,
+      "image": "dragon.jpg"
+    },
+    {
+      "id": 8,
+      "image": "tiger.jpg"
+    },
+    {
+      "id": 9,
+      "image": "rat.jpg"
+    },
+    {
+      "id": 10,
+      "image": "pig.jpg"
+    },
+    {
+      "id": 11,
+      "image": "rooster.JPG"
+    },
+    {
+      "id": 12,
+      "image": "goat.jpg"
+    }
+  ]
+  
