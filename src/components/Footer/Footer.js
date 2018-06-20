@@ -4,7 +4,7 @@ import "./Footer.css";
 
 const Footer = () => (
 	<header className = "footer">
-		<p>&copy; 2018 D.J. Turner Designed with <span><i class="icon-heart"></i></span> by Me!</p>
+		<p>&copy; 2018 D.J. Turner</p>
 	</header>
 );
 
